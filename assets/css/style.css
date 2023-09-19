@@ -104,6 +104,7 @@ span.club {
 
 .hiden {
     display: none;
+    transtion: display 250ms ease-in-out;
 }
 
 .dot {
